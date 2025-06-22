@@ -16,3 +16,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Albannach/alice
 BugReports: https://github.com/Albannach/alice/issues
+RoxygenNote: 7.3.2
